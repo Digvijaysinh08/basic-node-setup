@@ -8,3 +8,14 @@ coverage/
 *.min.js
 package-lock.json
 yarn.lock
+
+node_modules/
+.env
+*.log
+dist/
+build/
+coverage/
+.git/
+*.min.js
+package-lock.json
+yarn.lock
